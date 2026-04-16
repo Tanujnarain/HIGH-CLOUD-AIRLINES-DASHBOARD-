@@ -15,3 +15,15 @@ A portfolio project showcasing advanced analytics workflows: data preparation, S
 
 7. **End-to-End Airline Data Analysis**  
 From raw data to executive insights, this project demonstrates my ability to clean, analyze, and visualize airline datasets using Excel, SQL, Power BI, and Tableau. Deliverables include dashboards, datasets, and a final presentation with recommendations.
+
+**Excel Dashboard Layout**
+<img width="1847" height="938" alt="image" src="https://github.com/user-attachments/assets/06f051a1-810f-4aeb-bba8-324ca4896b09" />
+
+**Power BI Dashboard Layout**
+<img width="1862" height="938" alt="image" src="https://github.com/user-attachments/assets/50367b0b-8b03-42a3-9638-62032794cd03" />
+
+**Tableau Dashboard Layout**
+<img width="1307" height="718" alt="image" src="https://github.com/user-attachments/assets/b024f250-f32d-4b71-9ed7-70b2caf396a9" />
+
+
+
